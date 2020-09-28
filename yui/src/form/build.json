@@ -1,0 +1,10 @@
+{
+  "name": "moodle-availability_advancedprofile-form",
+  "builds": {
+    "moodle-availability_advancedprofile-form": {
+      "jsfiles": [
+        "form.js"
+      ]
+    }
+  }
+}
